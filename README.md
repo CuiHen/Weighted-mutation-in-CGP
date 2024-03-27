@@ -1,5 +1,7 @@
 # Weighted-mutation-in-CGP
 
+From: ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fdoi.org%2F10.1145%2F3594805.3607130-https%3A%2F%2Fdoi.org%2F10.1145%2F3594805.3607130-blue?label=DOI&link=https%3A%2F%2Fdoi.org%2F10.1145%2F3594805.3607130)
+
 The code can be called in a command line.
 
 For this, just call `cgp_main.py`. An example can be seen below:
